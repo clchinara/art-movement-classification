@@ -1,1 +1,1 @@
-# art-movement-classifier
+# Art Movement and Style Classifier
